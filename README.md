@@ -12,7 +12,7 @@ You can download the code and open it with Thonny and save it as main.py to your
 
 # DIYODE Magazine Article
 
-COMING SOON
+[COMING SOON](https://diyodemag.com/)
 
 # License
 
