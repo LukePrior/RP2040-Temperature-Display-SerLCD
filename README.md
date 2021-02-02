@@ -10,6 +10,10 @@ You can download the code and open it with Thonny and save it as main.py to your
 
 ![Raspberry Pi Pico SerLCD i2c Wiring Diagram](wiring.PNG)
 
+# DIYODE Magazine Article
+
+COMING SOON
+
 # License
 
 This project is licensed under the MIT License. This project contains code from the [Get Started with MicroPython on Raspberry Pi Pico](https://hackspace.raspberrypi.org/books/micropython-pico) guide and the [Qwiic_SerLCD_Py](https://github.com/sparkfun/Qwiic_SerLCD_Py) library from Sparkfun.
