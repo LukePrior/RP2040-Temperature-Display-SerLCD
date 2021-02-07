@@ -6,10 +6,6 @@ This repository contains the MicroPython code required to display the internal t
 
 You can download the code and open it with Thonny and save it as main.py to your RP2040 device to make it run on boot.
 
-# Wiring Diagram
-
-![Raspberry Pi Pico SerLCD i2c Wiring Diagram](wiring.PNG)
-
 # DIYODE Magazine Article
 
 [COMING SOON](https://diyodemag.com/)
