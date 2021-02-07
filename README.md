@@ -1,6 +1,6 @@
-# RP2040 Temperature Display SerLCD i2c MicroPython
+# RP2040 Temperature Display SerLCD I2C MicroPython
 
-This repository contains the MicroPython code required to display the internal temperature reading from a RP2040 microcontroller found in the Raspberry Pi Pico to the SparkFun SerLCD via i2c.
+This repository contains the MicroPython code required to display the internal temperature reading from a RP2040 microcontroller found in the Raspberry Pi Pico to the SparkFun SerLCD via I2C.
 
 # Getting Started
 
