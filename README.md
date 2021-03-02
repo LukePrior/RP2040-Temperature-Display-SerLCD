@@ -8,7 +8,7 @@ You can download the code and open it with Thonny and save it as main.py to your
 
 # DIYODE Magazine Article
 
-[COMING SOON](https://diyodemag.com/)
+[Playing with Pico](https://diyodemag.com/projects/playing_with_raspberry_pi_pico_review_project)
 
 # License
 
